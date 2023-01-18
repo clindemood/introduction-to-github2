@@ -11,3 +11,6 @@
 ```
 print("I LOVE TACOS")
 ```
+- [X] Pet Cats
+- [X] Eat Tacos
+- [ ] Introduce myself to the world
